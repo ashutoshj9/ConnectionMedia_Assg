@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CM_Assessment",
+    "slug": "CM_Assessment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CM_Assessment"
+}
